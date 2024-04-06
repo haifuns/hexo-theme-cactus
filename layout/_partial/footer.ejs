@@ -5,6 +5,9 @@
     <% var startYear = (theme.copyright && theme.copyright.start_year) ? theme.copyright.start_year : new Date().getFullYear() %>
     <%= startYear >= endYear ? endYear : startYear + "-" + endYear %>
     <%= config.author || config.title %>
+    <a href="https://beian.miit.gov.cn/">
+      <%= theme.copyright.beian %>
+    </a>
   </div>
   <div class="footer-right">
     <nav>
