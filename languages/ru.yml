@@ -11,6 +11,7 @@ footer:
 index:
   find_me_on: 'Свяжитесь со мной:'
   enum_comma: ','
+  enum_full_stop: "."
   enum_and: и
   articles: Блог
   projects: Проекты

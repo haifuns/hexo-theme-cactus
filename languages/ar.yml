@@ -17,6 +17,7 @@ footer:
 index:
   find_me_on: يمكننا التواصل من خلال
   enum_comma: ","
+  enum_full_stop: "."
   enum_and: و
   articles: منشورات
   projects: مشاريع

@@ -13,6 +13,7 @@ footer:
 index:
   find_me_on: 찾기
   enum_comma: ','
+  enum_full_stop: "."
   enum_and: 그리고
   articles: 글 목록
   projects: 프로젝트

@@ -11,6 +11,7 @@ footer:
 index:
   find_me_on: Je vindt me op
   enum_comma: ','
+  enum_full_stop: "."
   enum_and: en
   articles: Blogposts
   projects: Projecten

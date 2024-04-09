@@ -11,6 +11,7 @@ footer:
 index:
   find_me_on: مرا در این شبکه‌ها دنبال کنید
   enum_comma: '،'
+  enum_full_stop: "."
   enum_and: و
   articles: نوشته‌ها
   projects: پروژه‌ها

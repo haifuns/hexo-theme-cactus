@@ -13,6 +13,7 @@ footer:
 index:
   find_me_on: Tìm tôi trên
   enum_comma: ','
+  enum_full_stop: "."
   enum_and: and
   articles: Bài viết
   projects: Dự án

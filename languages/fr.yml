@@ -11,6 +11,7 @@ footer:
 index:
   find_me_on: Retrouve moi sur
   enum_comma: ','
+  enum_full_stop: "."
   enum_and: et
   articles: Articles
   projects: Projets
